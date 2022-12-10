@@ -61,7 +61,7 @@ public class StockAccount {
         public static int getTotalValue() {
             return TotalValue;
         }
-
+        
         public static void setTotalValue(int totalValue) {
             TotalValue = totalValue;
         }
