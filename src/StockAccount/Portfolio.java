@@ -3,8 +3,8 @@ package StockAccount;
 
 import java.util.Scanner;
 
-public class Portfolio extends StockAccount {
-
+public class Portfolio extends StockAccount { 
+        
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             System.out.println("Enter the total number of Stocks");
