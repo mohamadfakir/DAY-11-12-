@@ -2,7 +2,8 @@ package deckofcards;
 
 import java.util.Random;
 
-public class DeckofCards {
+public class DeckofCards {\
+        
         String suit[] = {"Clubs","Diamonds","Hearts","Spades"};
         String rank[] = {"2","3","4","5","6","7","8","9","10","Jack","Queen","king","Ace"};
         String deck[] = new String[52];
