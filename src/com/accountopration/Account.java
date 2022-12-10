@@ -3,7 +3,7 @@ package com.accountopration;
 import java.util.Scanner;
 
     public class Account {
-
+        
         //Declaring account balance
         private static double currentBalance = 120385.57;
         Scanner scan = new Scanner(System.in);
